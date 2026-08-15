@@ -1,0 +1,15 @@
+{
+  "name": "The Language Engine",
+  "short_name": "Language Engine",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06100c",
+  "theme_color": "#06100c",
+  "icons": [
+    {
+      "src": "/assets/images/tle-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
