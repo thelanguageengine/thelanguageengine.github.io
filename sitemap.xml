@@ -1,30 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://thelanguageengine.github.io/</loc>
   </url>
+
   <url>
     <loc>https://thelanguageengine.github.io/apps/</loc>
   </url>
+
+  <!-- Depth Lock Screen -->
+  <url>
+    <loc>https://thelanguageengine.github.io/apps/depth-lock-screen/</loc>
+  </url>
+
+  <!-- Grammar Checker -->
   <url>
     <loc>https://thelanguageengine.github.io/apps/grammar-checker/</loc>
   </url>
+
   <url>
     <loc>https://thelanguageengine.github.io/apps/grammar-checker/privacy/</loc>
   </url>
+
   <url>
     <loc>https://thelanguageengine.github.io/apps/grammar-checker/terms/</loc>
   </url>
+
   <url>
     <loc>https://thelanguageengine.github.io/apps/grammar-checker/support/</loc>
   </url>
+
+  <!-- Shared legal/support -->
   <url>
     <loc>https://thelanguageengine.github.io/privacy/</loc>
   </url>
+
   <url>
     <loc>https://thelanguageengine.github.io/terms/</loc>
   </url>
+
   <url>
     <loc>https://thelanguageengine.github.io/support/</loc>
   </url>
+
 </urlset>
