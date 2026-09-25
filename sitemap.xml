@@ -15,6 +15,18 @@
     <loc>https://thelanguageengine.github.io/apps/depth-lock-screen/</loc>
   </url>
 
+  <url>
+    <loc>https://thelanguageengine.github.io/apps/depth-lock-screen/privacy/</loc>
+  </url>
+
+  <url>
+    <loc>https://thelanguageengine.github.io/apps/depth-lock-screen/terms/</loc>
+  </url>
+
+  <url>
+    <loc>https://thelanguageengine.github.io/apps/depth-lock-screen/support/</loc>
+  </url>
+
   <!-- Grammar Checker -->
   <url>
     <loc>https://thelanguageengine.github.io/apps/grammar-checker/</loc>
@@ -32,7 +44,7 @@
     <loc>https://thelanguageengine.github.io/apps/grammar-checker/support/</loc>
   </url>
 
-  <!-- Shared legal/support -->
+  <!-- Shared legal/support hubs -->
   <url>
     <loc>https://thelanguageengine.github.io/privacy/</loc>
   </url>
